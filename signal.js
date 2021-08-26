@@ -1,3 +1,7 @@
+$("#header").addClass("site-aside");
+$("#header").addClass("aside-inner h-100 ");
+$("#header").addClass("site-menu hover py-3 py-lg-0");
+
 // 自定义添加元素样式
 $("#navigator").addClass("aside-menu");
 $("#navList").addClass("menu-inner");
