@@ -1,0 +1,4 @@
+// 自定义添加元素样式
+$("#navigator").addClass("aside-menu");
+$("#navList").addClass("menu-inner");
+$("#navList li").addClass("menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent in menu-item-1911 nav-item");
